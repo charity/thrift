@@ -1,0 +1,18 @@
+Package: thrift-compiler
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: amd64
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 2135
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.6)
+Section: devel
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Compiler for Thrift definition files
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the Thrift compiler that is used for translating
+ from .thrift files (containing the definitions) to the language binding
+ for the supported languages.

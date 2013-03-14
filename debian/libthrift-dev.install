@@ -1,0 +1,13 @@
+usr/lib/libthrift*.a
+usr/lib/libthrift*.la
+usr/lib/pkgconfig
+usr/include/thrift/*.h
+usr/include/thrift/async
+usr/include/thrift/c_glib
+usr/include/thrift/concurrency
+usr/include/thrift/config.h
+usr/include/thrift/processor
+usr/include/thrift/protocol
+usr/include/thrift/qt
+usr/include/thrift/server
+usr/include/thrift/transport

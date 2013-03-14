@@ -1,0 +1,21 @@
+Package: python-fb303
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: amd64
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 114
+Depends: python (>= 2.4), python-support (>= 0.90.0)
+Recommends: python-twisted-core
+Provides: python2.7-fb303
+Section: python
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Python bindings for Thrift
+ A Python/Thrift standard interface to monitoring, dynamic options and
+ configuration, uptime reports, activity, etc.
+ .
+ This package contains the Python bindings for fb303 via Thrift. You will need the thrift
+ tool (in the thrift-compiler package) to compile your definition to Java
+ classes, and then the modules in this package will allow you to use those
+ classes in your programs.
+Python-Version: 2.7

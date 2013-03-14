@@ -1,0 +1,10 @@
+345a0aeed8337e24b34bd5de13040151  usr/share/doc/python-fb303/changelog.gz
+368d508d2dab46e6976940932b3a1b50  usr/share/doc/python-fb303/copyright
+7d57d74fb180364a165d5f157fbcde1b  usr/share/pyshared/fb303/FacebookBase.py
+6c6b79f3bf59cba61797713e850abbdc  usr/share/pyshared/fb303/FacebookService.py
+715c1e7c703c29524c69ca422b47c6f1  usr/share/pyshared/fb303/__init__.py
+68d08ee656f708197fd547abd6c9e841  usr/share/pyshared/fb303/constants.py
+78143570768d2d26a65ecb44cfa20d4c  usr/share/pyshared/fb303/ttypes.py
+b86ba375e94e608acb0b314349761a76  usr/share/pyshared/fb303_scripts/__init__.py
+0a1a98b602ad8075fb72189f0cbdcc35  usr/share/pyshared/fb303_scripts/fb303_simple_mgmt.py
+454ba859cde56172a917cbd507de2a3b  usr/share/python-support/python-fb303.public

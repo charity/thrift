@@ -1,0 +1,20 @@
+Package: python-thrift-dbg
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: amd64
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 397
+Depends: libc6 (>= 2.2.5), python-thrift (= 0.9.0~jb1ubuntu2), python-all-dbg
+Provides: python2.7-thrift-dbg
+Section: python
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Python bindings for Thrift (debug version)
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the Python bindings for Thrift with debugging symbols.
+ You will need the thrift tool (in the thrift-compiler package) to compile your
+ definition to Python classes, and then the modules in this package will allow
+ you to use those classes in your programs.

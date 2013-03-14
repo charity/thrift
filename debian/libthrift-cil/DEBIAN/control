@@ -1,0 +1,19 @@
+Package: libthrift-cil
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: all
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 90
+Depends: cli-common, libmono-corlib1.0-cil (>= 1.0), libmono-system1.0-cil (>= 1.0), libmono-system-web2.0-cil
+Section: libs
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: CLI bindings for Thrift
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the CLI bindings for Thrift. You will need the thrift
+ tool (in the thrift-compiler package) to compile your definition to C#
+ classes, and then the modules in this package will allow you to use those
+ classes in your programs.

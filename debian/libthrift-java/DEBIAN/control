@@ -1,0 +1,20 @@
+Package: libthrift-java
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: all
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 374
+Depends: java-gcj-compat | java1-runtime | java2-runtime
+Recommends: libcommons-lang-java
+Section: libs
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Java bindings for Thrift
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the Java bindings for Thrift. You will need the thrift
+ tool (in the thrift-compiler package) to compile your definition to Java
+ classes, and then the modules in this package will allow you to use those
+ classes in your programs.

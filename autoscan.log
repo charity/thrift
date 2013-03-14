@@ -1,0 +1,2 @@
+autoscan: warning: missing AC_CHECK_HEADERS([wchar.h]) wanted by: 
+	lib/py/compat/win32/stdint.h:52

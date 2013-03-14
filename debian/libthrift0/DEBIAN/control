@@ -1,0 +1,17 @@
+Package: libthrift0
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: amd64
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 850
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libqt4-network (>= 4:4.5.3), libqtcore4 (>= 4:4.5.3), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.4.0)
+Section: devel
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Thrift C++ library
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the runtime libraries needed for C++ applications
+ using Thrift.

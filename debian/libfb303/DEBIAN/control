@@ -1,0 +1,16 @@
+Package: libfb303
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: amd64
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 506
+Depends: libthrift0, libglib2.0-dev
+Section: libdevel
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: FB303 C++ library (development headers)
+ A standard interface for monitoring, dynamic options and configuration, uptime
+ reports and activity.
+ .
+ This package contains the runtime libraries needed for C++ applications
+ using FB303.

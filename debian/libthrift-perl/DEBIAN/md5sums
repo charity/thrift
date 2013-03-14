@@ -1,0 +1,12 @@
+345a0aeed8337e24b34bd5de13040151  usr/share/doc/libthrift-perl/changelog.gz
+368d508d2dab46e6976940932b3a1b50  usr/share/doc/libthrift-perl/copyright
+9df450688a209c6771b164c2a489292f  usr/usr/local/lib/perl5/Thrift.pm
+74a6556038e8fad642f1334c97e555c2  usr/usr/local/lib/perl5/Thrift/BinaryProtocol.pm
+59ee86379575a53275701fc7bfc98288  usr/usr/local/lib/perl5/Thrift/BufferedTransport.pm
+3887fc00fbd74024dc4781db2349b4d7  usr/usr/local/lib/perl5/Thrift/FramedTransport.pm
+fd9aa363ff6224836826e95e2f359c1f  usr/usr/local/lib/perl5/Thrift/HttpClient.pm
+6f8c88f96f0cbf4c83ad95a75d564a0f  usr/usr/local/lib/perl5/Thrift/MemoryBuffer.pm
+9c23e57033a3603d879f386a464e6786  usr/usr/local/lib/perl5/Thrift/Protocol.pm
+af4b01eabca4e9203adf916adf51fb08  usr/usr/local/lib/perl5/Thrift/Server.pm
+511df53db1c3738e62cfb10d8a66d07c  usr/usr/local/lib/perl5/Thrift/Socket.pm
+c98c21af78f0c48f4f53ac233b37a840  usr/usr/local/lib/perl5/Thrift/Transport.pm

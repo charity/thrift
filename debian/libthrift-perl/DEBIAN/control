@@ -1,0 +1,19 @@
+Package: libthrift-perl
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: all
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 101
+Depends: perl (>= 5.8.0-7)
+Section: perl
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Perl bindings for Thrift
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the Perl bindings for Thrift. You will need the thrift
+ tool (in the thrift-compiler package) to compile your definition to Perl
+ classes, and then the modules in this package will allow you to use those
+ classes in your programs.

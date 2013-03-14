@@ -1,0 +1,9 @@
+pyversions=2.4-
+
+/usr/share/pyshared/fb303/FacebookBase.py
+/usr/share/pyshared/fb303/FacebookService.py
+/usr/share/pyshared/fb303/__init__.py
+/usr/share/pyshared/fb303/constants.py
+/usr/share/pyshared/fb303/ttypes.py
+/usr/share/pyshared/fb303_scripts/__init__.py
+/usr/share/pyshared/fb303_scripts/fb303_simple_mgmt.py

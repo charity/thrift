@@ -1,0 +1,17 @@
+Package: libthrift-dev
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: amd64
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 3042
+Depends: libthrift0, libglib2.0-dev
+Section: libdevel
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Thrift C++ library (development headers)
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the development libraries required for writing C++
+ applications using Thrift.

@@ -1,0 +1,8 @@
+e831ea9b31c0807a05283ac394a46143  usr/include/thrift/fb303/FacebookBase.h
+8f4cd64c35ed65593c52e3d78d1b7ef2  usr/include/thrift/fb303/FacebookService.h
+05e279e28012bb2835e382817b14f621  usr/include/thrift/fb303/ServiceTracker.h
+b63f32bb2aef4e3df28716d37cd0e80e  usr/include/thrift/fb303/fb303_constants.h
+316510b835556373ccd51ac5ff0cc23c  usr/include/thrift/fb303/fb303_types.h
+345a0aeed8337e24b34bd5de13040151  usr/share/doc/libfb303-dev/changelog.gz
+368d508d2dab46e6976940932b3a1b50  usr/share/doc/libfb303-dev/copyright
+7ab68e744f74ff71dcb0ebf101be9796  usr/share/fb303/if/fb303.thrift

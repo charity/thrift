@@ -1,0 +1,21 @@
+Package: python-thrift
+Source: thrift
+Version: 0.9.0~jb1ubuntu2
+Architecture: amd64
+Maintainer: Thrift Developer's <dev@thrift.apache.org>
+Installed-Size: 200
+Depends: python (<< 2.8), python (>= 2.7), python-support (>= 0.90.0), libc6 (>= 2.2.5)
+Recommends: python-twisted-core
+Provides: python2.7-thrift
+Section: python
+Priority: extra
+Homepage: http://thrift.apache.org/
+Description: Python bindings for Thrift
+ Thrift is a software framework for scalable cross-language services
+ development. It combines a software stack with a code generation engine to
+ build services that work efficiently and seamlessly.
+ .
+ This package contains the Python bindings for Thrift. You will need the thrift
+ tool (in the thrift-compiler package) to compile your definition to Python
+ classes, and then the modules in this package will allow you to use those
+ classes in your programs.

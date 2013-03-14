@@ -1,0 +1,13 @@
+thrift-compiler_0.9.0~jb1ubuntu2_amd64.deb devel extra
+python-thrift_0.9.0~jb1ubuntu2_amd64.deb python extra
+python-thrift-dbg_0.9.0~jb1ubuntu2_amd64.deb python extra
+libthrift0_0.9.0~jb1ubuntu2_amd64.deb devel extra
+libthrift-dev_0.9.0~jb1ubuntu2_amd64.deb libdevel extra
+php5-thrift_0.9.0~jb1ubuntu2_amd64.deb php extra
+libfb303-dev_0.9.0~jb1ubuntu2_amd64.deb libdevel extra
+libfb303_0.9.0~jb1ubuntu2_amd64.deb libdevel extra
+python-fb303_0.9.0~jb1ubuntu2_amd64.deb python extra
+ruby-thrift_0.9.0~jb1ubuntu2_all.deb libs extra
+libthrift-java_0.9.0~jb1ubuntu2_all.deb libs extra
+libthrift-cil_0.9.0~jb1ubuntu2_all.deb libs extra
+libthrift-perl_0.9.0~jb1ubuntu2_all.deb perl extra
